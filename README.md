@@ -76,26 +76,6 @@ The dashboard helps analyze:
 - Quarterly sales and profit trends
 - Quantity and sales distribution across segments
 
-## 📷 Dashboard Preview
-
-### Sales Dashboard
-
-![Sales Dashboard](screenshots/sales-dashboard.png)
-
-### Region and State Level Analysis
-
-![Region and State Analysis](screenshots/region-state-analysis.png)
-
-### Category and Sub-Category Level Analysis
-
-![Category and Sub-Category Analysis](screenshots/category-subcategory-analysis.png)
-
-## 🔗 Power BI Dashboard
-
-[View Interactive Dashboard](YOUR_POWER_BI_PUBLIC_LINK)
-
-## 👨‍💻 Author
-
 **Suraj Vishwakarma**
 
 [GitHub](https://github.com/Sunlight8169) | [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-3088b7255)
