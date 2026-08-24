@@ -76,6 +76,20 @@ The dashboard helps analyze:
 - Quarterly sales and profit trends
 - Quantity and sales distribution across segments
 
+  ## 📷 Dashboard Preview
+
+### Sales Dashboard
+
+[![Sales Dashboard](screenshots/Sales_Dashboard.png)](screenshots/Sales_Dashboard.png)
+
+### Region and State Level Analysis
+
+[![Region and State Analysis](screenshots/Region%20and%20State%20Level%20Analysis.png)](screenshots/Region%20and%20State%20Level%20Analysis.png)
+
+### Category and Sub-Category Level Analysis
+
+[![Category and Sub-Category Analysis](screenshots/Category%20and%20Sub-Category%20Level%20Analysis.png)](screenshots/Category%20and%20Sub-Category%20Level%20Analysis.png)
+
 **Suraj Vishwakarma**
 
 [GitHub](https://github.com/Sunlight8169) | [LinkedIn](https://www.linkedin.com/in/suraj-vishwakarma-3088b7255)
